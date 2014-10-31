@@ -3,7 +3,7 @@
   "name": "mode",
   "repo": "logo/mode",
   "description": "The Mode logo.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "styles": [
     "index.css"
